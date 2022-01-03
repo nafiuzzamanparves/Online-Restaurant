@@ -1,0 +1,37 @@
+{
+  "post": [
+    {
+      "id": 2,
+      "name": "ondhokar",
+      "email": "ondhokar@gmail.com",
+      "mobile": "01716325902",
+      "address": "khondokarer pase",
+      "service": "osthir"
+    },
+    {
+      "id": 3,
+      "name": "Misti Bari",
+      "email": "misti@gmail.com",
+      "mobile": "01521414580",
+      "address": "Main Road, Rajbaro",
+      "service": "Misti"
+    },
+    {
+      "id": 4,
+      "name": "Sankar",
+      "email": "sankar@gmail.com",
+      "mobile": "01948354648",
+      "address": "Sarnakar potti, Rajbari",
+      "service": "Misti"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Nafiuzzaman",
+      "email": "nafiuzzaman.parves@gmail.com",
+      "mobile": "01521414580",
+      "password": "nafiuzzaman",
+      "id": 1
+    }
+  ]
+}
